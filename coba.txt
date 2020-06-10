@@ -1,2 +1,5 @@
 Percobaan pertama untuk menambahkan file di github
 mengedit file di github
+Pertama kali membuat branch
+Diberi nama branch1
+bercabang dari master
